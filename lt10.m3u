@@ -3,7 +3,7 @@
 http://200.115.120.1:8000/play/ca002/index.m3u8
 #EXTINF:-1,Canal 3
 http://200.115.120.1:8000/play/ca003/index.m3u8
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1,Discovery Kid
 http://200.115.120.1:8000/play/ca004/index.m3u8
 #EXTINF:-1,DREAMWORKS SD
 http://200.115.120.1:8000/play/ca005/index.m3u8
